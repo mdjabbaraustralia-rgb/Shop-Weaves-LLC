@@ -1,0 +1,15 @@
+{
+  "name": "shop-waves",
+  "version": "1.0.0",
+  "description": "Shop Wave's - a small e-commerce website built with plain Node.js (no dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": ["ecommerce", "nodejs", "shop", "no-dependencies"],
+  "license": "MIT"
+}

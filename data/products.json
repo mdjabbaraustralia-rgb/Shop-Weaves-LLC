@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "p1",
+    "name": "Xiaomi Redmi 13C 6/128GB",
+    "category": "Mobiles & Tablets",
+    "price": 109,
+    "oldPrice": null,
+    "stock": 40,
+    "rating": 4.4,
+    "featured": true,
+    "colors": [
+      "#0ea5e9",
+      "#0c4a6e"
+    ],
+    "short": "6.74\" HD+ display, 50MP camera, 5000mAh battery.",
+    "description": "A budget smartphone with a large 6.74-inch 90Hz HD+ screen, a 50MP main camera, and a 5000mAh battery that easily lasts the day. Runs on the MediaTek Helio G85 with 6GB RAM and 128GB expandable storage.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-06-14",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-01-03",
+        "body": "Battery easily lasts a full day of normal use."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p2",
+    "name": "Samsung Galaxy A15 4G 8/256GB",
+    "category": "Mobiles & Tablets",
+    "price": 179,
+    "oldPrice": 199,
+    "stock": 30,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#6366f1",
+      "#312e81"
+    ],
+    "short": "6.5\" Super AMOLED, 50MP OIS camera, 25W charging.",
+    "description": "A vivid 6.5-inch Super AMOLED display, a 50MP optically-stabilised main camera, and 25W fast charging on a 5000mAh battery. Ships with 8GB RAM, 256GB storage and a microSD slot.",
+    "reviews": [
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-04-16",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-01-27",
+        "body": "Battery easily lasts a full day of normal use."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p3",
+    "name": "Realme C67 6/128GB",
+    "category": "Mobiles & Tablets",
+    "price": 129,
+    "oldPrice": null,
+    "stock": 35,
+    "rating": 4.3,
+    "featured": false,
+    "colors": [
+      "#2563eb",
+      "#1e3a8a"
+    ],
+    "short": "108MP camera, 33W SUPERVOOC, 90Hz display.",
+    "description": "Pairs a 108MP main camera with a 90Hz 6.72-inch display and 33W SUPERVOOC charging. The Snapdragon 685 chip and 6GB RAM keep everyday apps and light gaming smooth.",
+    "reviews": [
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-07-04",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      },
+      {
+        "author": "Rima K.",
+        "rating": 4,
+        "date": "2026-06-12",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-04-15",
+        "body": "Battery easily lasts a full day of normal use."
+      },
+      {
+        "author": "Omar F.",
+        "rating": 5,
+        "date": "2026-01-26",
+        "body": "Works as expected. No complaints so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p4",
+    "name": "Infinix Hot 40i 8/128GB",
+    "category": "Mobiles & Tablets",
+    "price": 115,
+    "oldPrice": 135,
+    "stock": 45,
+    "rating": 4.2,
+    "featured": false,
+    "colors": [
+      "#0ea5e9",
+      "#0c4a6e"
+    ],
+    "short": "90Hz display, dual speakers, 5000mAh battery.",
+    "description": "A large 6.56-inch 90Hz screen, stereo dual speakers and an 18W-charged 5000mAh battery. Comes with 8GB RAM (expandable), 128GB storage and a side-mounted fingerprint reader.",
+    "reviews": [
+      {
+        "author": "Jahid H.",
+        "rating": 4,
+        "date": "2026-07-03",
+        "body": "Battery easily lasts a full day of normal use."
+      },
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-04-14",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-02-17",
+        "body": "Set up my SIMs and it was ready in minutes. Camera is decent in daylight."
+      },
+      {
+        "author": "Sizan K.",
+        "rating": 5,
+        "date": "2026-01-25",
+        "body": "Delivery was quick and the product is exactly as described."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p5",
+    "name": "itel A70 4/256GB",
+    "category": "Mobiles & Tablets",
+    "price": 79,
+    "oldPrice": null,
+    "stock": 60,
+    "rating": 4.1,
+    "featured": false,
+    "colors": [
+      "#6366f1",
+      "#312e81"
+    ],
+    "short": "Entry-level 4G phone, 256GB storage, 5000mAh.",
+    "description": "An affordable 4G handset with a surprisingly generous 256GB of storage, a 6.6-inch display and a 5000mAh battery. A dependable first smartphone or a simple backup.",
+    "reviews": [
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-07-27",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 4,
+        "date": "2026-05-05",
+        "body": "Set up my SIMs and it was ready in minutes. Camera is decent in daylight."
+      },
+      {
+        "author": "Jarin T.",
+        "rating": 4,
+        "date": "2026-04-13",
+        "body": "Works as expected. No complaints so far."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-02-16",
+        "body": "Battery easily lasts a full day of normal use."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p6",
+    "name": "Samsung Galaxy Tab A9 4/64GB",
+    "category": "Mobiles & Tablets",
+    "price": 149,
+    "oldPrice": 169,
+    "stock": 25,
+    "rating": 4.4,
+    "featured": true,
+    "colors": [
+      "#2563eb",
+      "#1e3a8a"
+    ],
+    "short": "8.7\" display, quad speakers, slim metal body.",
+    "description": "A compact 8.7-inch tablet with four Dolby Atmos speakers, a slim metal frame and a 5100mAh battery. Good for reading, video and video calls, with expandable storage.",
+    "reviews": [
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-08-18",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-05-04",
+        "body": "Battery easily lasts a full day of normal use."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p7",
+    "name": "Xiaomi Redmi Pad SE 4/128GB",
+    "category": "Mobiles & Tablets",
+    "price": 189,
+    "oldPrice": null,
+    "stock": 22,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#0ea5e9",
+      "#0c4a6e"
+    ],
+    "short": "11\" 90Hz display, quad speakers, 8000mAh.",
+    "description": "An 11-inch 90Hz screen and a large 8000mAh battery make this a comfortable tablet for streaming and browsing. Quad speakers with Dolby Atmos and a metal unibody.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-08-17",
+        "body": "Battery easily lasts a full day of normal use."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-03-06",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p8",
+    "name": "Nokia 105 (2023) Dual SIM",
+    "category": "Mobiles & Tablets",
+    "price": 18,
+    "oldPrice": null,
+    "stock": 120,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#6366f1",
+      "#312e81"
+    ],
+    "short": "Feature phone, long battery life, wireless FM.",
+    "description": "A rugged dual-SIM feature phone with weeks of standby, a bright torch and wireless FM radio. Big keys and a clear display make it easy for anyone to use.",
+    "reviews": [
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-08-16",
+        "body": "Genuine product, matches the listing photos and details."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-06-19",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 5,
+        "date": "2026-05-27",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-03-05",
+        "body": "Battery easily lasts a full day of normal use."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p9",
+    "name": "Anker PowerCore 20000mAh Power Bank",
+    "category": "Electronics",
+    "price": 39,
+    "oldPrice": null,
+    "stock": 55,
+    "rating": 4.7,
+    "featured": true,
+    "colors": [
+      "#4f46e5",
+      "#3730a3"
+    ],
+    "short": "20000mAh, 22.5W fast charge, USB-C in/out.",
+    "description": "Charges phones at 22.5W and small laptops over USB-C, with enough capacity for four to five full phone charges. Recharges itself in about four hours.",
+    "reviews": [
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-06-18",
+        "body": "Compact for the capacity. USB-C in and out is handy."
+      },
+      {
+        "author": "Omar F.",
+        "rating": 5,
+        "date": "2026-03-04",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-01-07",
+        "body": "Charges my phone about four times before it needs a top-up."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p10",
+    "name": "Xiaomi Redmi Buds 5",
+    "category": "Electronics",
+    "price": 29,
+    "oldPrice": 35,
+    "stock": 70,
+    "rating": 4.4,
+    "featured": true,
+    "colors": [
+      "#7c3aed",
+      "#4c1d95"
+    ],
+    "short": "Active noise cancellation, 40h total playtime.",
+    "description": "True-wireless earbuds with up to 46dB active noise cancellation, large 12.4mm drivers and 40 hours of total playback with the case. Bluetooth 5.3 with low-latency game mode.",
+    "reviews": [
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-06-17",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-04-20",
+        "body": "Battery easily lasts a full day of normal use."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-01-06",
+        "body": "Screen is bright and the phone feels smooth for the price."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p11",
+    "name": "Havit HV-KB395L Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 32,
+    "oldPrice": null,
+    "stock": 40,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#0891b2",
+      "#164e63"
+    ],
+    "short": "87-key TKL, blue switches, RGB backlight.",
+    "description": "A compact tenkeyless mechanical keyboard with tactile blue switches, per-key RGB lighting and a detachable braided cable. Solid ABS body with adjustable feet.",
+    "reviews": [
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-07-08",
+        "body": "Typing feels solid and the RGB is a nice touch."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-04-19",
+        "body": "Compact size freed up desk space. Keys are clicky as expected."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p12",
+    "name": "Logitech M185 Wireless Mouse",
+    "category": "Electronics",
+    "price": 14,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#4f46e5",
+      "#3730a3"
+    ],
+    "short": "Plug-and-play 2.4GHz, 12-month battery.",
+    "description": "A reliable compact wireless mouse with a tiny USB nano receiver, 1000 DPI optical tracking and up to a year on one AA battery. Works on Windows, macOS and Linux.",
+    "reviews": [
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-07-07",
+        "body": "Tracks well on my desk and the battery lasts ages."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-02-21",
+        "body": "Plug the receiver and it just works."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p13",
+    "name": "Walton WD-RF32 32\" HD Smart TV",
+    "category": "Electronics",
+    "price": 135,
+    "oldPrice": 159,
+    "stock": 28,
+    "rating": 4.3,
+    "featured": true,
+    "colors": [
+      "#7c3aed",
+      "#4c1d95"
+    ],
+    "short": "32\" HD LED, built-in apps, 2x HDMI.",
+    "description": "A 32-inch HD smart LED TV with the popular streaming apps pre-installed, two HDMI inputs and a USB media port. A good fit for a bedroom or second living space.",
+    "reviews": [
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-05-09",
+        "body": "Picture is sharp for a 32-inch and setup took five minutes."
+      },
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-02-20",
+        "body": "Apps load fine over wifi. Speakers are average but okay for a bedroom."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p14",
+    "name": "JBL Go 3 Portable Speaker",
+    "category": "Electronics",
+    "price": 34,
+    "oldPrice": null,
+    "stock": 60,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#0891b2",
+      "#164e63"
+    ],
+    "short": "IP67 waterproof, 5h play, bold JBL sound.",
+    "description": "A pocket-sized Bluetooth speaker with punchy sound, an IP67 dust- and water-proof rating and five hours of playback. Integrated loop clips it to a bag.",
+    "reviews": [
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-08-22",
+        "body": "Took it to the beach, the waterproofing held up."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 5,
+        "date": "2026-07-05",
+        "body": "Genuine product, matches the listing photos and details."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-05-08",
+        "body": "Punchy sound for something this small."
+      },
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-02-19",
+        "body": "Happy with this purchase, would order again."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p15",
+    "name": "Baseus 65W GaN Charger",
+    "category": "Electronics",
+    "price": 25,
+    "oldPrice": null,
+    "stock": 65,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#4f46e5",
+      "#3730a3"
+    ],
+    "short": "2C+1A ports, 65W total, foldable pins.",
+    "description": "A travel-sized gallium-nitride charger that powers a laptop, phone and earbuds together. Foldable pins and 100-240V input make it a single charger for trips.",
+    "reviews": [
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-08-21",
+        "body": "Tiny and the folding pins are great for travel."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "body": "Charges my laptop and phone together without heating up much."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p16",
+    "name": "SanDisk Ultra 128GB USB 3.0 Pendrive",
+    "category": "Electronics",
+    "price": 12,
+    "oldPrice": null,
+    "stock": 100,
+    "rating": 4.7,
+    "featured": false,
+    "colors": [
+      "#7c3aed",
+      "#4c1d95"
+    ],
+    "short": "128GB, up to 130MB/s read, retractable.",
+    "description": "A fast USB 3.0 flash drive with transfer speeds up to 130MB/s and a retractable connector that needs no cap. Backward compatible with USB 2.0 ports.",
+    "reviews": [
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-06-23",
+        "body": "Retractable design means no cap to lose."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-03-09",
+        "body": "Transfer speed is quick, moved a movie in seconds."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p17",
+    "name": "Walton WMO-M20ECG 20L Microwave Oven",
+    "category": "Home Appliances",
+    "price": 85,
+    "oldPrice": 99,
+    "stock": 30,
+    "rating": 4.3,
+    "featured": true,
+    "colors": [
+      "#e11d48",
+      "#881337"
+    ],
+    "short": "20L, 700W, grill, child lock, one-touch cook.",
+    "description": "A 20-litre microwave with a grill element, several one-touch programs, defrost-by-weight and a child safety lock. Easy-clean interior and a 245mm turntable.",
+    "reviews": [
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-06-22",
+        "body": "Easy to clean inside. Buttons are a bit stiff."
+      },
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-03-08",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-01-11",
+        "body": "Heats evenly and the grill works well for a quick toast."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p18",
+    "name": "Vision Air Fryer 5.5L Digital",
+    "category": "Home Appliances",
+    "price": 65,
+    "oldPrice": null,
+    "stock": 34,
+    "rating": 4.6,
+    "featured": true,
+    "colors": [
+      "#d97706",
+      "#78350f"
+    ],
+    "short": "5.5L basket, 8 presets, little or no oil.",
+    "description": "A family-size air fryer that crisps food with rapid hot air and little to no oil. Eight digital presets, a 60-minute timer and a non-stick basket that lifts out for washing.",
+    "reviews": [
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-06-21",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-04-24",
+        "body": "Big enough for a family of four and the basket washes easily."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "body": "We use it almost every day now. Chips come out crisp with barely any oil."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p19",
+    "name": "Miyako ASL-1188 1.8L Rice Cooker",
+    "category": "Home Appliances",
+    "price": 22,
+    "oldPrice": null,
+    "stock": 70,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#0d9488",
+      "#134e4a"
+    ],
+    "short": "1.8L, keep-warm, steam tray, non-stick pot.",
+    "description": "Cooks up to 10 cups of rice and switches to keep-warm automatically. Includes a steaming tray for vegetables, a measuring cup and a serving spoon.",
+    "reviews": [
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-07-12",
+        "body": "Cooks rice perfectly and keeps it warm for hours."
+      },
+      {
+        "author": "Lubna F.",
+        "rating": 4,
+        "date": "2026-06-20",
+        "body": "Delivery was quick and the product is exactly as described."
+      },
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-04-23",
+        "body": "Clean grains, cooked up soft and separate."
+      },
+      {
+        "author": "Mahin R.",
+        "rating": 5,
+        "date": "2026-01-09",
+        "body": "Works as expected. No complaints so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p20",
+    "name": "Panasonic MX-AC300 Mixer Grinder",
+    "category": "Home Appliances",
+    "price": 59,
+    "oldPrice": null,
+    "stock": 26,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#e11d48",
+      "#881337"
+    ],
+    "short": "550W, 3 jars, circuit breaker protection.",
+    "description": "A 550W mixer grinder with three stainless jars for wet grinding, dry spices and chutneys. A built-in circuit breaker guards the motor against overload.",
+    "reviews": [
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-07-11",
+        "body": "Grinds spices fine and the jars feel sturdy."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-02-25",
+        "body": "Powerful motor, handled a big batch of masala without struggling."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p21",
+    "name": "Philips HD9306 1.7L Electric Kettle",
+    "category": "Home Appliances",
+    "price": 24,
+    "oldPrice": 29,
+    "stock": 60,
+    "rating": 4.6,
+    "featured": true,
+    "colors": [
+      "#d97706",
+      "#78350f"
+    ],
+    "short": "1.7L, rapid boil, auto shut-off, cool-touch.",
+    "description": "A 2200W kettle that boils quickly and quietly, with a concealed element, a water-level window and automatic shut-off with boil-dry protection. 360-degree cordless base.",
+    "reviews": [
+      {
+        "author": "Omar F.",
+        "rating": 5,
+        "date": "2026-07-10",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-05-13",
+        "body": "Boils fast and switches off on its own."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-02-24",
+        "body": "No plastic smell, water tastes clean."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p22",
+    "name": "Kiam Non-stick Induction Cooker 2000W",
+    "category": "Home Appliances",
+    "price": 34,
+    "oldPrice": null,
+    "stock": 40,
+    "rating": 4.2,
+    "featured": false,
+    "colors": [
+      "#0d9488",
+      "#134e4a"
+    ],
+    "short": "2000W, touch panel, timer, 8 power levels.",
+    "description": "A single-zone induction cooktop with a touch control panel, a timer and eight power levels. Heats fast, wipes clean, and includes safety cut-off for empty pans.",
+    "reviews": [
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-08-26",
+        "body": "Wipe-clean top is a big plus."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 4,
+        "date": "2026-05-12",
+        "body": "The steam tray is handy for vegetables."
+      },
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-02-23",
+        "body": "Happy with this purchase, would order again."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p23",
+    "name": "Walton W17OA-DX 1.5 Ton Split AC",
+    "category": "Home Appliances",
+    "price": 429,
+    "oldPrice": 499,
+    "stock": 12,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#e11d48",
+      "#881337"
+    ],
+    "short": "1.5 ton, inverter, fast cooling, anti-dust filter.",
+    "description": "A 1.5-ton inverter split air conditioner with quick cooling, a washable anti-dust filter and a quiet indoor unit. Copper condenser with a self-diagnosis system.",
+    "reviews": [
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-08-25",
+        "body": "Installation team was on time. Power bill looks reasonable so far."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-03-14",
+        "body": "Cools the room fast and runs quietly at night."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p24",
+    "name": "Sharp EJ-19 Stand Fan 16\"",
+    "category": "Home Appliances",
+    "price": 27,
+    "oldPrice": null,
+    "stock": 55,
+    "rating": 4.3,
+    "featured": false,
+    "colors": [
+      "#d97706",
+      "#78350f"
+    ],
+    "short": "16\" blade, 3 speeds, wide oscillation, timer.",
+    "description": "A 16-inch stand fan with three speeds, wide oscillation and adjustable height and tilt. A quiet motor and a 60-minute timer make it good for bedrooms.",
+    "reviews": [
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-06-27",
+        "body": "Quieter than my old fan. Assembly was simple."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-03-13",
+        "body": "Good airflow and the oscillation covers the whole room."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p25",
+    "name": "Men's Slim-Fit Cotton Casual Shirt",
+    "category": "Fashion",
+    "price": 16,
+    "oldPrice": null,
+    "stock": 120,
+    "rating": 4.3,
+    "featured": true,
+    "colors": [
+      "#f97316",
+      "#7c2d12"
+    ],
+    "short": "Breathable cotton, slim fit, button-down collar.",
+    "description": "A slim-fit casual shirt in soft, breathable cotton with a button-down collar and a chest pocket. Works tucked or untucked, from office to weekend.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-06-26",
+        "body": "Stitching is neat, no loose threads. Colour matches the photo."
+      },
+      {
+        "author": "Mahin R.",
+        "rating": 5,
+        "date": "2026-03-12",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-01-15",
+        "body": "True to size and the fabric is comfortable in this weather."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p26",
+    "name": "Women's A-Line Printed Kurti",
+    "category": "Fashion",
+    "price": 14,
+    "oldPrice": 18,
+    "stock": 90,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#8b5cf6",
+      "#4c1d95"
+    ],
+    "short": "Rayon fabric, three-quarter sleeves, side slits.",
+    "description": "A comfortable A-line kurti in lightweight rayon with an all-over print, three-quarter sleeves and side slits for easy movement. Pairs with leggings or jeans.",
+    "reviews": [
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-06-25",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-04-03",
+        "body": "Stitching is neat, no loose threads. Colour matches the photo."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 5,
+        "date": "2026-03-11",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-01-14",
+        "body": "True to size and the fabric is comfortable in this weather."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p27",
+    "name": "Men's Formal Leather Loafers",
+    "category": "Fashion",
+    "price": 34,
+    "oldPrice": null,
+    "stock": 45,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#db2777",
+      "#831843"
+    ],
+    "short": "Genuine leather upper, cushioned insole.",
+    "description": "Slip-on formal loafers with a genuine leather upper, a cushioned insole and a lightly textured sole for grip. A clean, versatile choice for office wear.",
+    "reviews": [
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-07-16",
+        "body": "Comfortable straight out of the box."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-04-27",
+        "body": "Sole has good grip and they look smart with jeans."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p28",
+    "name": "Unisex Sports Running Shoes",
+    "category": "Fashion",
+    "price": 28,
+    "oldPrice": null,
+    "stock": 80,
+    "rating": 4.2,
+    "featured": false,
+    "colors": [
+      "#f97316",
+      "#7c2d12"
+    ],
+    "short": "Mesh upper, EVA midsole, non-slip outsole.",
+    "description": "Lightweight running shoes with a breathable mesh upper, a springy EVA midsole and a non-slip patterned outsole. Suitable for gym sessions and daily walks.",
+    "reviews": [
+      {
+        "author": "Jahid H.",
+        "rating": 4,
+        "date": "2026-07-15",
+        "body": "Comfortable straight out of the box."
+      },
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-02-04",
+        "body": "Sole has good grip and they look smart with jeans."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p29",
+    "name": "Women's Handbag PU Leather",
+    "category": "Fashion",
+    "price": 22,
+    "oldPrice": 28,
+    "stock": 55,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#8b5cf6",
+      "#4c1d95"
+    ],
+    "short": "Structured tote, inner pockets, detachable strap.",
+    "description": "A structured everyday handbag in pebbled PU leather with a zip pocket, two slip pockets and a detachable shoulder strap. Holds a tablet, wallet and daily essentials.",
+    "reviews": [
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-05-17",
+        "body": "Roomy without looking bulky, the inner pockets are useful."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-02-03",
+        "body": "Feels well made for the price."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p30",
+    "name": "Fastrack Analog Watch (Steel)",
+    "category": "Fashion",
+    "price": 45,
+    "oldPrice": 55,
+    "stock": 38,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#db2777",
+      "#831843"
+    ],
+    "short": "Stainless-steel bracelet, 50m water resistant.",
+    "description": "A 40mm analog watch with a brushed stainless-steel case and bracelet, a mineral crystal and 50-metre water resistance. Quartz movement for reliable timekeeping.",
+    "reviews": [
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-08-05",
+        "body": "Looks more premium than it costs."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-05-16",
+        "body": "Keeps accurate time and the strap is comfortable."
+      },
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-02-27",
+        "body": "Happy with this purchase, would order again."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p31",
+    "name": "Men's Denim Jacket",
+    "category": "Fashion",
+    "price": 38,
+    "oldPrice": null,
+    "stock": 40,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#f97316",
+      "#7c2d12"
+    ],
+    "short": "Mid-wash rigid denim, classic trucker cut.",
+    "description": "A classic trucker-cut denim jacket in 12oz rigid cotton that softens with wear. Button front, chest and hand pockets, and a shirt-style collar.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-08-04",
+        "body": "Warm enough for the evening and the denim is heavy in a good way."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-03-18",
+        "body": "Fits true to size, a little stiff for the first week as expected."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p32",
+    "name": "Cotton Panjabi for Men",
+    "category": "Fashion",
+    "price": 20,
+    "oldPrice": null,
+    "stock": 70,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#8b5cf6",
+      "#4c1d95"
+    ],
+    "short": "Soft cotton, full sleeves, subtle chest work.",
+    "description": "A comfortable full-sleeve panjabi in soft cotton with a mandarin collar and understated chest embroidery. Breathable enough for long wear on festive days.",
+    "reviews": [
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-08-03",
+        "body": "Genuine product, matches the listing photos and details."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-06-06",
+        "body": "Stitching is neat, no loose threads. Colour matches the photo."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 5,
+        "date": "2026-05-14",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-03-17",
+        "body": "True to size and the fabric is comfortable in this weather."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p33",
+    "name": "Omron HEM-7120 Blood Pressure Monitor",
+    "category": "Health & Beauty",
+    "price": 32,
+    "oldPrice": 39,
+    "stock": 45,
+    "rating": 4.6,
+    "featured": true,
+    "colors": [
+      "#14b8a6",
+      "#115e59"
+    ],
+    "short": "Upper-arm, one-touch, irregular-heartbeat alert.",
+    "description": "An upper-arm blood pressure monitor with one-touch measurement, a large display and an irregular-heartbeat indicator. Stores the last reading and includes a wide-range cuff.",
+    "reviews": [
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-06-05",
+        "body": "Easy for my parents to use on their own."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-01-19",
+        "body": "Readings track closely with my clinic cuff."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p34",
+    "name": "Accu-Chek Active Glucometer Kit",
+    "category": "Health & Beauty",
+    "price": 24,
+    "oldPrice": null,
+    "stock": 50,
+    "rating": 4.4,
+    "featured": true,
+    "colors": [
+      "#a855f7",
+      "#6b21a8"
+    ],
+    "short": "Meter, lancing device, 10 strips, 10 lancets.",
+    "description": "A starter kit with a fast blood glucose meter, a comfortable lancing device with depth settings, a carry case, plus ten strips and ten lancets to begin.",
+    "reviews": [
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-06-04",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-04-07",
+        "body": "Kit had everything to get started."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-01-18",
+        "body": "Quick result and the lancing device barely hurts."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p35",
+    "name": "Philips BHD300 Hair Dryer 1600W",
+    "category": "Health & Beauty",
+    "price": 27,
+    "oldPrice": null,
+    "stock": 55,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#e879a6",
+      "#9d174d"
+    ],
+    "short": "1600W, ThermoProtect, 3 heat/speed settings.",
+    "description": "A 1600W dryer with a ThermoProtect setting that holds a caring temperature, three heat and speed combinations and a concentrator nozzle for styling.",
+    "reviews": [
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-07-20",
+        "body": "Dries fast without frying my hair."
+      },
+      {
+        "author": "Jarin T.",
+        "rating": 4,
+        "date": "2026-06-03",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-04-06",
+        "body": "Not too heavy to hold. The cool setting is handy."
+      },
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-01-17",
+        "body": "Works as expected. No complaints so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p36",
+    "name": "Oral-B Vitality 100 Electric Toothbrush",
+    "category": "Health & Beauty",
+    "price": 26,
+    "oldPrice": null,
+    "stock": 60,
+    "rating": 4.7,
+    "featured": true,
+    "colors": [
+      "#14b8a6",
+      "#115e59"
+    ],
+    "short": "Rechargeable, 2-minute timer, rotating clean.",
+    "description": "A rechargeable electric toothbrush with a 2D rotating-oscillating head, a built-in two-minute timer and a slim handle. Ships with one CrossAction brush head.",
+    "reviews": [
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-07-19",
+        "body": "Teeth feel much cleaner and the timer is useful."
+      },
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-04-05",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 5,
+        "date": "2026-02-08",
+        "body": "Battery lasts weeks on a charge."
+      },
+      {
+        "author": "Imran S.",
+        "rating": 5,
+        "date": "2026-01-16",
+        "body": "Genuine product, matches the listing photos and details."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p37",
+    "name": "Panasonic ES-SL41 Wet/Dry Shaver",
+    "category": "Health & Beauty",
+    "price": 22,
+    "oldPrice": null,
+    "stock": 50,
+    "rating": 4.3,
+    "featured": false,
+    "colors": [
+      "#a855f7",
+      "#6b21a8"
+    ],
+    "short": "3-blade, pop-up trimmer, washable, cordless.",
+    "description": "A cordless three-blade shaver that can be used with foam or gel, with a pop-up trimmer for sideburns and a fully washable head. Charges in about eight hours.",
+    "reviews": [
+      {
+        "author": "Mahin R.",
+        "rating": 5,
+        "date": "2026-07-18",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-05-21",
+        "body": "Close shave and easy to rinse under the tap."
+      },
+      {
+        "author": "Lubna F.",
+        "rating": 4,
+        "date": "2026-04-04",
+        "body": "Delivery was quick and the product is exactly as described."
+      },
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-02-07",
+        "body": "The pop-up trimmer is good for sideburns."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p38",
+    "name": "Digital Body Weight Scale",
+    "category": "Health & Beauty",
+    "price": 15,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.2,
+    "featured": false,
+    "colors": [
+      "#e879a6",
+      "#9d174d"
+    ],
+    "short": "Tempered glass, step-on, 180kg capacity.",
+    "description": "A slim bathroom scale with a tempered-glass platform, high-precision sensors and step-on instant activation. Clear backlit display with auto power-off.",
+    "reviews": [
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-08-09",
+        "body": "Slim and sturdy, no wobble."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 4,
+        "date": "2026-07-17",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-05-20",
+        "body": "Consistent readings and the display is easy to read."
+      },
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-02-06",
+        "body": "Happy with this purchase, would order again."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p39",
+    "name": "Dettol Original Handwash 900ml Refill",
+    "category": "Health & Beauty",
+    "price": 4,
+    "oldPrice": null,
+    "stock": 200,
+    "rating": 4.7,
+    "featured": false,
+    "colors": [
+      "#14b8a6",
+      "#115e59"
+    ],
+    "short": "900ml refill pouch, trusted germ protection.",
+    "description": "A large 900ml refill pouch of liquid handwash that helps protect against germs while being gentle on skin. Refilling a pump bottle costs less and cuts plastic.",
+    "reviews": [
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-08-08",
+        "body": "Gentle on the skin, does not leave it dry."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "body": "Refill pouch lasts a long time and works out cheaper."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p40",
+    "name": "Himalaya Purifying Neem Face Wash 150ml",
+    "category": "Health & Beauty",
+    "price": 3,
+    "oldPrice": null,
+    "stock": 200,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#a855f7",
+      "#6b21a8"
+    ],
+    "short": "Soap-free, neem & turmeric, for oily skin.",
+    "description": "A soap-free gel face wash with neem and turmeric that helps clear excess oil and reduce breakouts. Rinses clean without leaving skin tight.",
+    "reviews": [
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-06-10",
+        "body": "Gentle on the skin, does not leave it dry."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-03-21",
+        "body": "Refill pouch lasts a long time and works out cheaper."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p41",
+    "name": "Ajwa Dates Premium 1kg",
+    "category": "Grocery",
+    "price": 17,
+    "oldPrice": null,
+    "stock": 80,
+    "rating": 4.7,
+    "featured": true,
+    "colors": [
+      "#d97706",
+      "#92400e"
+    ],
+    "short": "Soft whole Ajwa dates, resealable pouch.",
+    "description": "Hand-selected whole Ajwa dates, naturally soft with a rich flavour and no added sugar or syrup. Packed in a resealable, food-grade pouch to keep them fresh.",
+    "reviews": [
+      {
+        "author": "Jarin T.",
+        "rating": 4,
+        "date": "2026-08-06",
+        "body": "Works as expected. No complaints so far."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 5,
+        "date": "2026-06-09",
+        "body": "Good quality, will buy again during Ramadan."
+      },
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-01-23",
+        "body": "Fresh and soft, not dried out. Well packed."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p42",
+    "name": "Roasted Cashew Nuts 500g",
+    "category": "Grocery",
+    "price": 12,
+    "oldPrice": null,
+    "stock": 95,
+    "rating": 4.6,
+    "featured": true,
+    "colors": [
+      "#059669",
+      "#065f46"
+    ],
+    "short": "Lightly salted whole cashews, W320 grade.",
+    "description": "Whole W320-grade cashews, oven-roasted and lightly salted for a clean crunch. No palm oil; sealed for freshness.",
+    "reviews": [
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-06-08",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-04-11",
+        "body": "Whole pieces, not broken. Sealed well."
+      },
+      {
+        "author": "Imran S.",
+        "rating": 5,
+        "date": "2026-03-19",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-01-22",
+        "body": "Crunchy and fresh, lightly salted just right."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p43",
+    "name": "Fresh Refined Soybean Oil 5L",
+    "category": "Grocery",
+    "price": 13,
+    "oldPrice": null,
+    "stock": 120,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#65a30d",
+      "#3f6212"
+    ],
+    "short": "Refined soybean oil, 5-litre jar, vitamin A & D.",
+    "description": "A light, neutral-tasting refined soybean oil for everyday frying and cooking, fortified with vitamins A and D. Sealed cap with a tamper band.",
+    "reviews": [
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-07-24",
+        "body": "Light and clean tasting, no strong smell."
+      },
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-04-10",
+        "body": "The 5L jar is good value for a family."
+      },
+      {
+        "author": "Mahin R.",
+        "rating": 5,
+        "date": "2026-01-21",
+        "body": "Works as expected. No complaints so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p44",
+    "name": "Pran Chinigura Aromatic Rice 5kg",
+    "category": "Grocery",
+    "price": 9,
+    "oldPrice": null,
+    "stock": 110,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#d97706",
+      "#92400e"
+    ],
+    "short": "Small-grain aromatic rice, 5kg pack.",
+    "description": "Fragrant small-grain Chinigura rice, ideal for polao, biryani and kheer. Cleaned and sorted, in a resealable woven bag.",
+    "reviews": [
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-07-23",
+        "body": "Very fragrant, made lovely polao."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-02-12",
+        "body": "Clean grains, cooked up soft and separate."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p45",
+    "name": "Nescafe Classic Instant Coffee 100g",
+    "category": "Grocery",
+    "price": 6,
+    "oldPrice": null,
+    "stock": 130,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#059669",
+      "#065f46"
+    ],
+    "short": "Freeze-dried instant coffee, 100g jar.",
+    "description": "A smooth, full-bodied instant coffee that dissolves fully in hot or cold water. Resealable glass jar keeps the aroma locked in.",
+    "reviews": [
+      {
+        "author": "Omar F.",
+        "rating": 5,
+        "date": "2026-07-22",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-05-25",
+        "body": "Dissolves fully and the aroma is good."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-02-11",
+        "body": "Strong enough for a morning cup."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p46",
+    "name": "Radhuni Turmeric Powder 200g",
+    "category": "Grocery",
+    "price": 2,
+    "oldPrice": null,
+    "stock": 200,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#65a30d",
+      "#3f6212"
+    ],
+    "short": "Pure ground turmeric, 200g, bright colour.",
+    "description": "Finely ground pure turmeric with a warm colour and aroma for everyday curries and marinades. Sealed inner pack keeps it dry.",
+    "reviews": [
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-08-13",
+        "body": "Fine grind, mixes into curries easily."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-05-24",
+        "body": "Bright colour and fresh aroma."
+      },
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-02-10",
+        "body": "Happy with this purchase, would order again."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p47",
+    "name": "Nestle Nido Full Cream Milk Powder 900g",
+    "category": "Grocery",
+    "price": 11,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#d97706",
+      "#92400e"
+    ],
+    "short": "Full-cream milk powder, 900g, fortified.",
+    "description": "Instant full-cream milk powder that mixes smoothly for drinking, tea and cooking. Fortified with vitamins A, C and D.",
+    "reviews": [
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-08-12",
+        "body": "Kids like it and it is handy for tea and cooking."
+      },
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-05-23",
+        "body": "Delivery was quick and the product is exactly as described."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-03-26",
+        "body": "Bright colour and fresh aroma."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p48",
+    "name": "24-Piece Stainless Steel Cutlery Set",
+    "category": "Kitchen & Dining",
+    "price": 19,
+    "oldPrice": null,
+    "stock": 80,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#ca8a04",
+      "#713f12"
+    ],
+    "short": "Service for six, mirror-polished, dishwasher safe.",
+    "description": "A 24-piece flatware set for six, in balanced stainless steel with a mirror finish. Six each of dinner knives, forks, dessert spoons and teaspoons.",
+    "reviews": [
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-08-11",
+        "body": "Genuine product, matches the listing photos and details."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-06-14",
+        "body": "Enough for six, packed neatly in a box."
+      },
+      {
+        "author": "Imran S.",
+        "rating": 5,
+        "date": "2026-05-22",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-03-25",
+        "body": "Good weight and a nice shine. Dishwasher safe as stated."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p49",
+    "name": "3-Piece Non-stick Cookware Set",
+    "category": "Kitchen & Dining",
+    "price": 29,
+    "oldPrice": 37,
+    "stock": 40,
+    "rating": 4.4,
+    "featured": true,
+    "colors": [
+      "#16a34a",
+      "#14532d"
+    ],
+    "short": "Frypan, saucepan, casserole with lids; induction-ready.",
+    "description": "A three-piece set with a durable non-stick coating that releases food cleanly. Forged aluminium bodies with an induction base and stay-cool handles.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-06-13",
+        "body": "Handles stay cool-ish, still use a mitt to be safe."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-01-27",
+        "body": "Even heat and nothing sticks so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p50",
+    "name": "Borosilicate Glass Food Storage Set (7 pcs)",
+    "category": "Kitchen & Dining",
+    "price": 18,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.6,
+    "featured": false,
+    "colors": [
+      "#ea580c",
+      "#7c2d12"
+    ],
+    "short": "4 containers, leak-proof snap lids, oven safe.",
+    "description": "Four borosilicate glass containers with vented, leak-proof lids. Oven, microwave, freezer and dishwasher safe; the clear bodies stack to save space.",
+    "reviews": [
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-06-12",
+        "body": "Second time buying from here, quality has been consistent."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-04-15",
+        "body": "Stack well and go straight from freezer to oven."
+      },
+      {
+        "author": "Hasan T.",
+        "rating": 5,
+        "date": "2026-03-23",
+        "body": "Happy with this purchase, would order again."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-01-26",
+        "body": "Lids are properly leak-proof, took soup to work with no spills."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p51",
+    "name": "Vision Pressure Cooker 4L",
+    "category": "Kitchen & Dining",
+    "price": 21,
+    "oldPrice": null,
+    "stock": 55,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#ca8a04",
+      "#713f12"
+    ],
+    "short": "4L, aluminium body, safety valve, spare gasket.",
+    "description": "A 4-litre aluminium pressure cooker with a pressure-regulating weight, a safety valve and a heat-resistant handle. Comes with a spare gasket.",
+    "reviews": [
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-07-03",
+        "body": "Cooks rice perfectly and keeps it warm for hours."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-04-14",
+        "body": "The steam tray is handy for vegetables."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p52",
+    "name": "Insulated Stainless Steel Water Bottle 1L",
+    "category": "Kitchen & Dining",
+    "price": 12,
+    "oldPrice": null,
+    "stock": 130,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#16a34a",
+      "#14532d"
+    ],
+    "short": "Double-wall, 24h cold / 12h hot, leak-proof.",
+    "description": "A 1-litre vacuum-insulated bottle that keeps drinks cold for 24 hours or hot for 12. Leak-proof lid with a carry loop and a powder-coated finish.",
+    "reviews": [
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-07-27",
+        "body": "Kept water cold all day at work."
+      },
+      {
+        "author": "Shila R.",
+        "rating": 4,
+        "date": "2026-04-13",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-02-16",
+        "body": "No leaks in my bag and it does not sweat."
+      },
+      {
+        "author": "Sizan K.",
+        "rating": 5,
+        "date": "2026-01-24",
+        "body": "Packaging was secure and everything was intact."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p53",
+    "name": "Wooden Chopping Board Set (3 pcs)",
+    "category": "Kitchen & Dining",
+    "price": 10,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#ea580c",
+      "#7c2d12"
+    ],
+    "short": "Acacia wood, 3 sizes, juice groove.",
+    "description": "Three acacia-wood cutting boards in graduated sizes, each with a juice groove around the edge. Oil occasionally to keep the wood conditioned.",
+    "reviews": [
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-07-26",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-05-04",
+        "body": "Solid boards, the juice groove actually works."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-02-15",
+        "body": "Three sizes cover most jobs in the kitchen."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p54",
+    "name": "Electric Sandwich Maker 750W",
+    "category": "Kitchen & Dining",
+    "price": 18,
+    "oldPrice": null,
+    "stock": 60,
+    "rating": 4.3,
+    "featured": false,
+    "colors": [
+      "#ca8a04",
+      "#713f12"
+    ],
+    "short": "750W, non-stick plates, cool-touch handle.",
+    "description": "Makes two triangular sandwiches at a time on non-stick plates, with indicator lights for power and ready. Locking handle and upright storage.",
+    "reviews": [
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-08-17",
+        "body": "Heats up fast and the lock keeps it shut."
+      },
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-05-03",
+        "body": "Makes a quick breakfast, plates wipe clean."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p55",
+    "name": "President 20\" Hard-shell Cabin Trolley",
+    "category": "Bags & Luggage",
+    "price": 59,
+    "oldPrice": 72,
+    "stock": 30,
+    "rating": 4.5,
+    "featured": true,
+    "colors": [
+      "#0284c7",
+      "#075985"
+    ],
+    "short": "Polycarbonate, 4 spinner wheels, number lock.",
+    "description": "A lightweight polycarbonate carry-on that meets most cabin size limits, with four spinner wheels, a built-in combination lock and a lined split interior.",
+    "reviews": [
+      {
+        "author": "Nadia K.",
+        "rating": 4,
+        "date": "2026-08-16",
+        "body": "Light for a hard-shell and the lock is easy to set."
+      },
+      {
+        "author": "Mahin R.",
+        "rating": 5,
+        "date": "2026-05-27",
+        "body": "Delivery was quick and the product is exactly as described."
+      },
+      {
+        "author": "Rakib H.",
+        "rating": 5,
+        "date": "2026-03-05",
+        "body": "Rolls smoothly and survived two flights without a scratch."
+      },
+      {
+        "author": "Lubna F.",
+        "rating": 4,
+        "date": "2026-02-13",
+        "body": "Genuine product, matches the listing photos and details."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p56",
+    "name": "Anti-theft Laptop Backpack 25L",
+    "category": "Bags & Luggage",
+    "price": 28,
+    "oldPrice": null,
+    "stock": 55,
+    "rating": 4.6,
+    "featured": true,
+    "colors": [
+      "#b45309",
+      "#78350f"
+    ],
+    "short": "Water-resistant, hidden zips, USB pass-through.",
+    "description": "A 25-litre commuter backpack with a padded 15.6\" laptop compartment, concealed back-panel zips, a luggage strap and a side USB charging pass-through.",
+    "reviews": [
+      {
+        "author": "Sharmin H.",
+        "rating": 4,
+        "date": "2026-08-15",
+        "body": "Genuine product, matches the listing photos and details."
+      },
+      {
+        "author": "Farhana B.",
+        "rating": 4,
+        "date": "2026-06-18",
+        "body": "The hidden zips give peace of mind on the bus."
+      },
+      {
+        "author": "Kamrul I.",
+        "rating": 5,
+        "date": "2026-03-04",
+        "body": "Comfortable on the shoulders even when full."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p57",
+    "name": "Travel Duffel Bag 45L Foldable",
+    "category": "Bags & Luggage",
+    "price": 16,
+    "oldPrice": null,
+    "stock": 90,
+    "rating": 4.3,
+    "featured": false,
+    "colors": [
+      "#7c3aed",
+      "#4c1d95"
+    ],
+    "short": "Packs into its own pocket, luggage sleeve.",
+    "description": "A 45-litre duffel in tear-resistant nylon that folds into a built-in pocket the size of a wallet. A rear sleeve slides over a suitcase handle.",
+    "reviews": [
+      {
+        "author": "Rima K.",
+        "rating": 4,
+        "date": "2026-08-14",
+        "body": "Happy with this purchase, would order again."
+      },
+      {
+        "author": "Nusrat A.",
+        "rating": 4,
+        "date": "2026-06-17",
+        "body": "Roomy for a weekend and the sleeve fits over my trolley handle."
+      },
+      {
+        "author": "Omar F.",
+        "rating": 5,
+        "date": "2026-03-03",
+        "body": "Packaging was secure and everything was intact."
+      },
+      {
+        "author": "Arif J.",
+        "rating": 5,
+        "date": "2026-01-06",
+        "body": "Folds down tiny, great as a spare bag for trips."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p58",
+    "name": "School Backpack for Kids",
+    "category": "Bags & Luggage",
+    "price": 14,
+    "oldPrice": null,
+    "stock": 80,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#0284c7",
+      "#075985"
+    ],
+    "short": "Padded straps, chest clip, bottle pocket.",
+    "description": "A durable school backpack sized for children, with a padded back and straps, an adjustable chest clip, a bottle pocket and a reflective strip.",
+    "reviews": [
+      {
+        "author": "Priya D.",
+        "rating": 4,
+        "date": "2026-04-19",
+        "body": "The hidden zips give peace of mind on the bus."
+      },
+      {
+        "author": "Jahid H.",
+        "rating": 5,
+        "date": "2026-01-05",
+        "body": "Comfortable on the shoulders even when full."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p59",
+    "name": "Laptop Sleeve 15.6\"",
+    "category": "Bags & Luggage",
+    "price": 9,
+    "oldPrice": null,
+    "stock": 110,
+    "rating": 4.5,
+    "featured": false,
+    "colors": [
+      "#b45309",
+      "#78350f"
+    ],
+    "short": "Padded, water-repellent, slim profile.",
+    "description": "A slim padded sleeve that protects a 15.6-inch laptop from knocks and scratches, with a water-repellent shell and a front pocket for a charger.",
+    "reviews": [
+      {
+        "author": "Tanvir A.",
+        "rating": 5,
+        "date": "2026-07-07",
+        "body": "Snug fit for my 15.6 laptop and the padding feels protective."
+      },
+      {
+        "author": "Jarin T.",
+        "rating": 4,
+        "date": "2026-06-15",
+        "body": "Ordered on a Sunday, got it in two days. Smooth experience."
+      },
+      {
+        "author": "Ayesha M.",
+        "rating": 4,
+        "date": "2026-04-18",
+        "body": "Front pocket fits the charger nicely."
+      },
+      {
+        "author": "Tofael A.",
+        "rating": 5,
+        "date": "2026-01-04",
+        "body": "Works as expected. No complaints so far."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "p60",
+    "name": "Toiletry Travel Organizer Bag",
+    "category": "Bags & Luggage",
+    "price": 8,
+    "oldPrice": null,
+    "stock": 120,
+    "rating": 4.4,
+    "featured": false,
+    "colors": [
+      "#7c3aed",
+      "#4c1d95"
+    ],
+    "short": "Hanging hook, wipe-clean lining, 4 compartments.",
+    "description": "A compact wash bag with four zip compartments, a wipe-clean lining and a fold-out hook to hang on a door or rail. Keeps toiletries tidy and leak-contained.",
+    "reviews": [
+      {
+        "author": "Emon C.",
+        "rating": 5,
+        "date": "2026-07-06",
+        "body": "Roomy without looking bulky, the inner pockets are useful."
+      },
+      {
+        "author": "Tania A.",
+        "rating": 4,
+        "date": "2026-04-17",
+        "body": "Good value for the money. Been using it a few weeks now with no issues."
+      },
+      {
+        "author": "Bushra A.",
+        "rating": 4,
+        "date": "2026-02-20",
+        "body": "Feels well made for the price."
+      }
+    ],
+    "images": []
+  }
+]

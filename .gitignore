@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log*
+*.log
+.DS_Store
+
+# runtime data written by the server on the live host
+data/settings.json
+data/orders.json
+
+# generated static preview
+preview/
