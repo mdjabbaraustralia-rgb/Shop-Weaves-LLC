@@ -84,6 +84,44 @@
     );
   }
 
+  // Swipe left/right on the product-detail image to move through its gallery.
+  document.querySelectorAll('.pdp-media').forEach(function (media) {
+    var radios = Array.prototype.slice.call(media.querySelectorAll('.pgal-r'));
+    if (radios.length < 2) return;
+    var startX = 0;
+    var startY = 0;
+    var tracking = false;
+    media.addEventListener(
+      'touchstart',
+      function (e) {
+        if (e.touches.length !== 1) return;
+        startX = e.touches[0].clientX;
+        startY = e.touches[0].clientY;
+        tracking = true;
+      },
+      { passive: true }
+    );
+    media.addEventListener(
+      'touchend',
+      function (e) {
+        if (!tracking) return;
+        tracking = false;
+        var t = e.changedTouches[0];
+        var dx = t.clientX - startX;
+        var dy = t.clientY - startY;
+        // require a clearly horizontal, deliberate swipe (not a scroll/tap)
+        if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+        var current = radios.findIndex(function (r) { return r.checked; });
+        if (current === -1) current = 0;
+        var next = current + (dx < 0 ? 1 : -1);
+        if (next < 0) next = radios.length - 1;
+        if (next >= radios.length) next = 0;
+        radios[next].checked = true;
+      },
+      { passive: true }
+    );
+  });
+
   // Search panel: focus the field when it opens, close on Esc or outside click.
   var searchToggle = document.getElementById('search-toggle');
   var searchField = document.querySelector('.search-drop input[name="search"]');
