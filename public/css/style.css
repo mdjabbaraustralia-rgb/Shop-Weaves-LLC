@@ -434,12 +434,13 @@ main.wrap { padding-top: 40px; padding-bottom: 56px; }
 /* fixed square frame — any uploaded photo (portrait, landscape, odd size) is
    cropped to fit so the layout never stretches or jumps */
 .pdp-media { position: relative; aspect-ratio: 1 / 1; border: 1px solid var(--line); border-radius: var(--radius-lg); overflow: hidden; background: var(--bg-soft); }
-.pdp-media img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pdp-media img { width: 100%; height: 100%; object-fit: cover; }
 .pdp-media .tag { position: absolute; top: 16px; left: 16px; z-index: 2; }
-/* CSS-only image gallery */
+/* CSS-only image gallery — the extra .pdp-media qualifier keeps these rules
+   more specific than ".pdp-media img" above, so the hide/show toggle wins */
 .pgal-r { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
-.pgal-img { display: none; position: absolute; inset: 0; }
-.pgal-r:checked + .pgal-img { display: block; }
+.pdp-media .pgal-img { display: none; position: absolute; inset: 0; }
+.pdp-media .pgal-r:checked + .pgal-img { display: block; }
 .pdp-thumbs { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
 .pdp-thumb {
   width: 72px; height: 72px; border: 2px solid var(--line); border-radius: 10px;
