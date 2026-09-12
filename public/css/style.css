@@ -441,6 +441,28 @@ main.wrap { padding-top: 40px; padding-bottom: 56px; }
 .pgal-r { position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
 .pdp-media .pgal-img { display: none; position: absolute; inset: 0; }
 .pdp-media .pgal-r:checked + .pgal-img { display: block; }
+
+/* prev/next arrows on the two sides of the main gallery image */
+.pgal-nav {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  z-index: 3; width: 40px; height: 40px; border-radius: var(--radius-pill);
+  display: grid; place-items: center;
+  background: rgba(255, 255, 255, 0.9); border: 1px solid var(--line);
+  color: var(--ink); cursor: pointer;
+  box-shadow: var(--shadow-md);
+  transition: background 0.15s, transform 0.15s var(--ease);
+}
+.pgal-nav:hover { background: #fff; transform: translateY(-50%) scale(1.06); }
+.pgal-nav:active { transform: translateY(-50%) scale(0.95); }
+.pgal-prev { left: 12px; }
+.pgal-next { right: 12px; }
+.pgal-prev svg { transform: rotate(180deg); }
+@media (max-width: 560px) {
+  .pgal-nav { width: 34px; height: 34px; }
+  .pgal-prev { left: 8px; }
+  .pgal-next { right: 8px; }
+}
+
 .pdp-thumbs { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
 .pdp-thumb {
   width: 72px; height: 72px; border: 2px solid var(--line); border-radius: 10px;

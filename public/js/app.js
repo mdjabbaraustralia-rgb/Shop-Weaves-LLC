@@ -84,10 +84,27 @@
     );
   }
 
-  // Swipe left/right on the product-detail image to move through its gallery.
+  // Product-detail gallery: swipe, or the prev/next arrow buttons, step
+  // through the images (wrapping at the ends). Thumbnail clicks keep working
+  // on their own since they're plain <label for="..."> radio toggles.
   document.querySelectorAll('.pdp-media').forEach(function (media) {
     var radios = Array.prototype.slice.call(media.querySelectorAll('.pgal-r'));
     if (radios.length < 2) return;
+
+    var step = function (dir) {
+      var current = radios.findIndex(function (r) { return r.checked; });
+      if (current === -1) current = 0;
+      var next = current + dir;
+      if (next < 0) next = radios.length - 1;
+      if (next >= radios.length) next = 0;
+      radios[next].checked = true;
+    };
+
+    var prevBtn = media.querySelector('.pgal-prev');
+    var nextBtn = media.querySelector('.pgal-next');
+    if (prevBtn) prevBtn.addEventListener('click', function () { step(-1); });
+    if (nextBtn) nextBtn.addEventListener('click', function () { step(1); });
+
     var startX = 0;
     var startY = 0;
     var tracking = false;
@@ -111,12 +128,7 @@
         var dy = t.clientY - startY;
         // require a clearly horizontal, deliberate swipe (not a scroll/tap)
         if (Math.abs(dx) < 40 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
-        var current = radios.findIndex(function (r) { return r.checked; });
-        if (current === -1) current = 0;
-        var next = current + (dx < 0 ? 1 : -1);
-        if (next < 0) next = radios.length - 1;
-        if (next >= radios.length) next = 0;
-        radios[next].checked = true;
+        step(dx < 0 ? 1 : -1);
       },
       { passive: true }
     );
